@@ -12,3 +12,5 @@ https://jay-brite@github.io/run-buddy/
 
 ##Contribution
 Made with ❤️ by Jason Breitling
+
+### ©️2019 Run Buddy, Inc 
